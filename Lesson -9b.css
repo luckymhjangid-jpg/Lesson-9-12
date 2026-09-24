@@ -1,0 +1,27 @@
+
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+div{ 
+     background-color: #DB9558;
+    margin-top: 5rem;
+    text-align: center;
+    height: 50vmin;
+    width: 50vmin;
+    line-height: 50vmin;
+    border-radius: 50%;
+}
+#p{
+    font-style: italic;
+    font-size: large;
+}

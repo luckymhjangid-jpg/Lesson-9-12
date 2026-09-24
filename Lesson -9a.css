@@ -1,0 +1,23 @@
+
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+div{ 
+     background-color: #A8BBA3;
+    margin-top: 5rem;
+    text-align: center;
+    height: 50vmin;
+    width: 50vmin;
+    line-height: 50vmin;
+}
+

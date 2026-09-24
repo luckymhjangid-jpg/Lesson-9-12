@@ -1,0 +1,44 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+
+ body{
+    height: 200vmin;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+ }
+ 
+ div{ 
+   margin-top: 5rem;
+   height: 25vmin;
+   width: 75vmin;
+   border-radius: 1px;
+   background-color: white;
+   border: 1px solid #212121;
+   border-width: 1px;
+   text-align: left;
+   background-color: #212121;
+   padding-left: 1rem;
+   padding-top: 1rem;
+  
+ }
+
+
+ #title1{
+    margin-top: 20px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+ }
+
+ #title2{
+     
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: #9C9C9B;
+ }
