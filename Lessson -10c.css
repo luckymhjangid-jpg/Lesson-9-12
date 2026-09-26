@@ -1,0 +1,82 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+  body{
+     padding: 20px 70px;
+  } 
+
+  .recom{
+    display: flex;
+  
+       padding: 10px 10px;
+       width: 700px;
+      
+  }
+
+  .img{
+    height: 150px;
+    width: 200px;
+  }
+
+  .data{
+    width: 400px;
+   
+  }
+
+ .thumb{
+   height: 80%;
+   width: 100%;
+ }
+  .title{
+   
+    width: 400px;
+    height: 50px;
+  }
+
+  .channel{
+      
+        width: 400px;
+        height: 30px;
+  }
+
+  .info{
+       margin-top: 2px;
+        width: 400px;
+        height: 40px;
+  }
+  .para{
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: 600; 
+  line-height: 1.4; 
+  color: #0f0f0f; 
+  text-decoration: none; 
+  margin: 0;
+  margin-left: 10px ;
+  }
+
+
+
+  .name{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    color: #606060;
+    margin-left:10px;
+    line-height: 18px;
+    
+  }
+
+
+
+  .span{
+    font-family: Roboto, Arial, sans-serif;
+    margin-left: 10px;
+    font-size: 14px;
+      color: #606060;
+  
+  }
+
+
+

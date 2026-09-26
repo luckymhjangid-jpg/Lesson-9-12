@@ -1,0 +1,41 @@
+  
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 20px 20px;
+    background-color: #FF7F50;
+}
+
+.div{
+  background-color: #FFD166;
+}
+
+
+.img{
+    background-color:#06D6A0 ;
+}
+
+.data{
+   background-color:#6C1A1A ;
+}
+
+
+.name{
+ background-color:#FFF1D1;
+}
+
+
+
+.info{
+ background-color:#FF84BA ;
+}
+
+
+
+.addfriend{
+ background-color:#5003C0 ;
+}
+
