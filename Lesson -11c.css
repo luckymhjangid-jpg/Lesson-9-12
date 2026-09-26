@@ -1,0 +1,32 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+
+   .main{
+     margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+    margin-bottom: 2rem;
+   }
+
+   #col1{
+    background-color: lightseagreen;
+   }
+
+    #col2{
+    background-color: lightcoral;
+   }
+
+    #col3{
+    background-color: lightgreen;
+   }
+
+
+    #col4{
+    background-color: lightskyblue;
+   }
+

@@ -8,8 +8,7 @@
   } 
 
   .recom{
-    display: flex;
-  
+       display: flex;
        padding: 10px 10px;
        width: 700px;
       
@@ -77,6 +76,9 @@
       color: #606060;
   
   }
+
+
+  
 
 
 
