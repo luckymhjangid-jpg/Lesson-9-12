@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+      
+
+.div{
+    margin-top: 3rem;
+    display: flex;
+   flex-direction: row;
+
+}
+
+
+#col1{
+    background-color: lightblue;
+  width: 200px ;
+}
+
+#col2{
+    background-color: lightgreen;
+    width: 75px;
+}
